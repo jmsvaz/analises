@@ -1,6 +1,6 @@
 # Análises
 
-Este repositório contém algumas análises econômicas e financeiras que faço por hobby. No momento, estou migrando as planilhas para jupyter notebooks.
+Este repositório contém algumas análises econômicas e financeiras que faço por hobby. No momento, estou migrando as planilhas para notebooks Jupyter.
 
 ## Análise da taxa de câmbio do DOLAR ao longo do tempo
 
@@ -8,4 +8,4 @@ Nesse estudo, será analisado como a taxa de câmbio entre o dolar e o real se c
 
 O valor da taxa de câmbio será ajustado tanto pela inflação brasileira quanto pela inflação americana.
 
-O arquivo do Jupyter Notebok pode ser acessado em [Análise da taxa de câmbio do DOLAR ao longo do tempo](notebooks/dolar.ipynb).
+O arquivo do Jupyter Notebook pode ser acessado em [Análise da taxa de câmbio do DOLAR ao longo do tempo](notebooks/dolar.ipynb).
